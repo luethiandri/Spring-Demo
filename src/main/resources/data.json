@@ -1,0 +1,40 @@
+{
+  "bookstores": [
+    {
+      "id": "fa18ca70-d0c6-4b90-ad81-e52b64f68aac\n",
+      "name": "Super Duper Bookses",
+      "books": [
+        {
+          "title": "Professional fizzbuzzing",
+          "author": {
+            "firstname": "Fizz",
+            "name": "Buzz"
+          }
+        },
+        {
+          "title": "Hobbitse and other mysteries",
+          "author": {
+            "firstname": "Bilbo",
+            "name": "Swaggins"
+          }
+        }
+      ]
+    },
+    {
+      "id": "83a0483f-0a04-45ed-8cd0-fc2532bf1aaf\n",
+      "name": "My Shelf",
+      "books": [
+        {
+          "title": "Lazy developers - a good night story"
+        },
+        {
+          "title": "Inside the mind of a master procrastinator",
+          "author": {
+            "firstname": "Tim",
+            "name": "Urban"
+          }
+        }
+      ]
+    }
+  ]
+}
